@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abotalebkhaled
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Odoo development
+- 🌱 I’m currently learning Odoo development
 - 📫 How to reach me ...
 
 <!---
